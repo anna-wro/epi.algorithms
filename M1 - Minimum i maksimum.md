@@ -1,3 +1,6 @@
+#M1 - Minimum i maksimum
+
+
 **Zadanie**
 
 Znajdź najmniejszą i największą liczbę w podanym ciągu liczb całkowitych.
