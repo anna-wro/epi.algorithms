@@ -16,18 +16,22 @@ Dla każdego zestawu danych w osobnej linii wypisz dwie liczby A i B oddzielone 
 **Przykład**
 
 Dla danych wejściowych:
-3
-3
-1 2 3
-4
-1 2 3 4
-5
-4 3 5 2 6
+
+    3
+    3
+    1 2 3
+    4
+    1 2 3 4
+    5
+    4 3 5 2 6
 
 poprawną odpowiedzią jest:
-1 3
-1 4
-2 6
+
+    1 3
+    1 4
+    2 6
+    
+Kod:
 
     #include <stdio.h>
     int main(void) {
