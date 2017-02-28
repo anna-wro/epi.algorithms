@@ -16,11 +16,15 @@ Dla danego rozmieszczenia kluczyków oblicz ile najmniej mogą zapłacić studen
 **Przykład**
 
 Dla danych wejściowych:
-5
-3 1 2 5 4
-poprawną odpowiedzią jest:
-1000
 
+    5
+    3 1 2 5 4
+
+poprawną odpowiedzią jest:
+
+    1000
+
+Kod:
 
     #include <stdio.h>
     int main(){
