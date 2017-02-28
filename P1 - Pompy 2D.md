@@ -16,12 +16,15 @@ Dla danego terenu program powinien wypisać minimalną liczbę pomp do jego cał
 **Przykład**
 
 Dla danych wejściowych:
-9
-5 4 3 3 4 5 6 3 4
+
+    9
+    5 4 3 3 4 5 6 3 4
 
 poprawną odpowiedzią jest:
-2
 
+    2
+
+Kod:
 
     #include <stdio.h>
     int main(){
