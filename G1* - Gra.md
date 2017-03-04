@@ -42,7 +42,7 @@ poprawną odpowiedzią jest:
 
     PAWEL
     
-Code:
+**Kod**
 
     #include <stdio.h>
     int main(){
