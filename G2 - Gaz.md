@@ -59,7 +59,7 @@ poprawną odpowiedzią jest:
     5 1
     6 2
 
-Kod:
+**Kod**
 
     #include <stdio.h>
     #include <vector>
