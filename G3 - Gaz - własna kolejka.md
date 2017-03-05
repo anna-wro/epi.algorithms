@@ -4,7 +4,7 @@
 
 Zaimplementuj swoją własną kolejkę a następnie rozwiąż zadanie G2 używając jej zamiast queue. Możesz założyć, że elementów w kolejce nie będzie więcej niż 1000.
 
-Kod:
+**Kod**
 
     #include <stdio.h>
     #include <vector>
