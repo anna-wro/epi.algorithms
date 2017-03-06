@@ -40,7 +40,7 @@ poprawną odpowiedzią jest:
 
     2
     
-Code:
+**Kod**
 
     #include <stdio.h>
     #define N 300000
