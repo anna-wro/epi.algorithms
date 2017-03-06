@@ -4,7 +4,7 @@
 
 Rozwiąż zadanie G2 używając swojej własnej kolejki oraz macierzy sąsiedztwa do reprezentacji grafu - czyli nie wolno Ci użyć klasy queue oraz vector. Możesz założyć, że maksymalnie będziemy mieli nie więcej niż 100 wierzchołków.
 
-Kod:
+**Kod**
 
     #include <stdio.h>
     using namespace std;
