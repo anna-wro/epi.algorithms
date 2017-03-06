@@ -32,7 +32,7 @@ poprawną odpowiedzią jest:
     1 2 3 4 5 6
     12 20
 
-Kod:
+**Kod**
 
     #include <stdio.h>
     void insertsort(int d, int *l){
