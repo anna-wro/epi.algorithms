@@ -4,7 +4,7 @@
 
 Rozwiąż zadanie K1 używając binarysearch
 
-Code:
+**Kod**
 
     #include <stdio.h>
     int BS(int x,int left,int right,int rurka[]){
