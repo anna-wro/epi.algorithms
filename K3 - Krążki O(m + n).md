@@ -4,7 +4,7 @@
 
 Rozwiąż zadanie K1 w czasie liniowym.
 
-Code:
+**Kod**
 
     #include <stdio.h>
     int main() {
