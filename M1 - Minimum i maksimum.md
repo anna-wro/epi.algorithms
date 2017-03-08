@@ -31,7 +31,7 @@ poprawną odpowiedzią jest:
     1 4
     2 6
     
-Kod:
+**Kod**
 
     #include <stdio.h>
     int main(void) {
