@@ -24,7 +24,7 @@ poprawną odpowiedzią jest:
 
     1000
 
-Kod:
+**Kod**
 
     #include <stdio.h>
     int main(){
