@@ -23,7 +23,7 @@ poprawną odpowiedzią jest:
     0 1
     2 4
     
-Code:
+**Kod**
 
      #include <stdio.h>
      int main(){
