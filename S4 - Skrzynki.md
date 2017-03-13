@@ -31,7 +31,7 @@ poprawną odpowiedzią jest:
 
     2
     
-Kod:
+**Kod**
 
     #include <iostream>
     #include<vector>
