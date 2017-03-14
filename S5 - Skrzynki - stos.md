@@ -1,4 +1,4 @@
-#S5 - Skrzynki - stos
+# S5 - Skrzynki - stos
 
 **Zadanie**
 
