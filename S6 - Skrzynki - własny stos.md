@@ -1,10 +1,10 @@
-#S6 - Skrzynki - własny stos
+# S6 - Skrzynki - własny stos
 
 **Zadanie**
 
 Rozszerzenie do zadania S5: zaimplementuj własny stos i rozwiąż zadanie S4, używając stosowej wersji algorytmu DFS - rozwiązanie nie może korzystac z bliblioteki stack.
 
-Kod:
+**Kod**
 
     #include <iostream>
     #include <vector>
