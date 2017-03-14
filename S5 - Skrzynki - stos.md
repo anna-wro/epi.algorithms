@@ -4,7 +4,7 @@
 
 Rozwiąż zadanie S4, używając stosowej wersji algorytmu DFS.
 
-Kod:
+**Kod**
 
     #include <iostream>
     #include <vector>
