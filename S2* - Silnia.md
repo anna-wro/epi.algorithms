@@ -1,4 +1,4 @@
-#S2* - Silnia
+# S2* - Silnia
 
 Niech n będzie nieujemną liczbą całkowitą. Liczbę n! definiuje się następująco. Jeśli n ≤ 1, to n! = 1. Dla n > 1, n! jest równe iloczynowi wszystkich liczb od 1 do n, czyli n! = 1 * 2 * ... * n. Na przykład 4! = 1*2*3*4 = 24.
 
